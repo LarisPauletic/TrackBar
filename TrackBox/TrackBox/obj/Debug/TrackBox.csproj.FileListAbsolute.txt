@@ -1,0 +1,10 @@
+C:\Users\Laris\source\repos\TrackBox\TrackBox\bin\Debug\TrackBox.exe.config
+C:\Users\Laris\source\repos\TrackBox\TrackBox\bin\Debug\TrackBox.exe
+C:\Users\Laris\source\repos\TrackBox\TrackBox\bin\Debug\TrackBox.pdb
+C:\Users\Laris\source\repos\TrackBox\TrackBox\obj\Debug\TrackBox.csprojAssemblyReference.cache
+C:\Users\Laris\source\repos\TrackBox\TrackBox\obj\Debug\TrackBox.Form1.resources
+C:\Users\Laris\source\repos\TrackBox\TrackBox\obj\Debug\TrackBox.Properties.Resources.resources
+C:\Users\Laris\source\repos\TrackBox\TrackBox\obj\Debug\TrackBox.csproj.GenerateResource.cache
+C:\Users\Laris\source\repos\TrackBox\TrackBox\obj\Debug\TrackBox.csproj.CoreCompileInputs.cache
+C:\Users\Laris\source\repos\TrackBox\TrackBox\obj\Debug\TrackBox.exe
+C:\Users\Laris\source\repos\TrackBox\TrackBox\obj\Debug\TrackBox.pdb
